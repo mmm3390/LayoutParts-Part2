@@ -6,22 +6,15 @@
 
 .back-2 {
   height: 500px;
-  background-image: url(../../image/coffee-background.jpg);
-  background-repeat: no-repeat;
+  background: url(../../image/coffee-background.jpg) no-repeat;
 }
 
 .back-3 {
   height: 500px;
-  background-image: url(../../image/coffee-background.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background: url(../../image/coffee-background.jpg) center cover no-repeat;
 }
 
 .back-4 {
   height: 500px;
-  background-image: url(../../image/coffee-background.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  background: url(../../image/coffee-background.jpg) center contain no-repeat;
 }
