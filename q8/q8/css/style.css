@@ -11,10 +11,10 @@
 
 .back-3 {
   height: 500px;
-  background: url(../../image/coffee-background.jpg) center cover no-repeat;
+  background: url(../../image/coffee-background.jpg) no-repeat center / cover;
 }
 
 .back-4 {
   height: 500px;
-  background: url(../../image/coffee-background.jpg) center contain no-repeat;
+  background: url(../../image/coffee-background.jpg) no-repeat center / contain;
 }
